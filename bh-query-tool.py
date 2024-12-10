@@ -8,8 +8,6 @@ import datetime
 import json
 import argparse
 import time
-import sys
-import readchar
 
 
 from urllib.parse import urlparse
